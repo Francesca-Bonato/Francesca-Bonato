@@ -28,7 +28,7 @@ I like to solve problems.
 - Node.js
 
 ### 👩‍💻 I'm working on
-- [ByCycle](https://github.com/Francesca-Bonato/ByCycle-project.git), a forum community dedicated to cycling enthusiasts
+- [ByCycle](https://github.com/Francesca-Bonato/ByCycle-project.git), a forum community project dedicated to cycling enthusiasts
 - Building my portfolio website. 
 
 ### 💡 Goals for 2024
