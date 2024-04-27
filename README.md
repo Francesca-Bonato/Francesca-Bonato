@@ -37,9 +37,8 @@ I thrive on solving problems.
 - Develop a simple 2D game. 
 
 ### 🌴 Fun facts
-- I enjoy reading books for the stories, playing board games for the strategy, and indulging in video games for both the stories and strategy.
-- "I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail" (Abraham Maslow)
-- "I guess it's time to diversify my toolset." (Me)
+- I enjoy reading books for the stories, playing board games for the strategy, and diving into video games for both the stories and strategy.
+- "I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail" (Abraham Maslow). I guess it's time to diversify my toolset.
   
 ### ☕ Get in touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/francesca-bonato-451219129/) 👨🏻‍💻
