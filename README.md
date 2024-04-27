@@ -28,7 +28,8 @@ I like to solve problems.
 - Node.js
 
 ### 👩‍💻 I'm working on
-- Building projects and my portfolio website. 
+- [ByCycle, a forum community dedicated to cycling enthusiasts](https://github.com/Francesca-Bonato/ByCycle-project.git)
+- Building my portfolio website. 
 
 ### 💡 Goals for 2024
 - Complete coding bootcamp by June 2024.
