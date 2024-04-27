@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub! I'm Francesca, a chemistry PhD who's transitioning into Software Engineering. Through self-study and enrolling in a 6-month coding Bootcamp at Develhope Academy, I am building a solid foundation in both frontend and backend technologies and languages. 
+Welcome to my GitHub! I'm Francesca, a PhD in Chemistry & Applied Sciences who's transitioning into Software Engineering. Through self-study and enrolling in a 6-month coding Bootcamp at Develhope Academy, I am building a solid foundation in both frontend and backend technologies and languages. 
 
 I like to solve problems.
 
 ### 🛠 Tech Stack
-- 💻 &nbsp;  Javascript | HTML | CSS | Bootstrap | React
+- 💻 &nbsp;  Javascript | TypeScript | HTML | CSS | Bootstrap | React
 - 🔧 &nbsp; Git | npm | Postman API 
 
 ### ✔️ I'm currently learning
