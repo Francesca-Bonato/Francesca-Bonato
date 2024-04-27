@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub! I'm Francesca, a PhD in Chemistry & Applied Sciences who's transitioning into Software Engineering. Through self-study and enrolling in a 6-month coding Bootcamp at Develhope Academy, I am building a solid foundation in both frontend and backend technologies and languages. 
 
-I like to solve problems.
+I thrive on solving problems.
 
 ### 🛠 Tech Stack
 - 💻 &nbsp;  Javascript | TypeScript | HTML | CSS | Bootstrap | React
@@ -37,9 +37,9 @@ I like to solve problems.
 - Develop a simple 2D game. 
 
 ### 🌴 Fun facts
-- I like reading books for the stories. I like board games for the strategy. I like videogames for the stories AND the strategy.
+- I enjoy reading books for the stories, playing board games for the strategy, and indulging in video games for both the stories and strategy.
 - “I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail” (Abraham Maslow)
-- I guess I decided it's time to change the tool set.
+- I guess it's time to diversify my toolset.
   
 ### ☕ Get in touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/francesca-bonato-451219129/) 👨🏻‍💻
