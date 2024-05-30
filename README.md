@@ -20,12 +20,11 @@ Welcome to my GitHub! I'm Francesca, a PhD in Chemistry & Applied Sciences who's
 I thrive on solving problems.
 
 ### 🛠 Tech Stack
-- 💻 &nbsp;  Javascript | TypeScript | HTML | CSS | Bootstrap | React
+- 💻 &nbsp;  Javascript | TypeScript | HTML | CSS | Bootstrap | React | Node.js | SQL
 - 🔧 &nbsp; Git | npm | Postman API 
 
 ### ✔️ I'm currently learning
-- SQL
-- Node.js
+- Python
 
 ### 👩‍💻 I'm working on
 - [ByCycle](https://github.com/Francesca-Bonato/ByCycle-project.git), a forum community project dedicated to cycling enthusiasts.
@@ -33,7 +32,7 @@ I thrive on solving problems.
 
 ### 💡 Goals for 2024
 - Complete coding bootcamp by June 2024.
-- Learn Python.
+- Become proficient in Python.
 - Develop a simple 2D game. 
 
 ### 🌴 Fun facts
