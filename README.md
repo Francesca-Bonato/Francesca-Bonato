@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm Francesca, a PhD in Chemistry & Applied Sciences who's
 I thrive on solving problems.
 
 ### 🛠 Tech Stack
-- 💻 &nbsp;  Javascript | TypeScript | HTML | CSS | Bootstrap | React | Node.js | SQL
+- 💻 &nbsp;  Javascript | TypeScript | HTML | CSS | Bootstrap | TailwindCSS | React | Node.js | SQL
 - 🔧 &nbsp; Git | npm | Postman API 
 
 ### ✔️ I'm currently learning
