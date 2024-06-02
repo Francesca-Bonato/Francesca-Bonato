@@ -24,7 +24,7 @@ I thrive on solving problems.
 - 🔧 &nbsp; Git | npm | Postman API 
 
 ### ✔️ I'm currently learning
-- Python
+- Python | Angular
 
 ### 👩‍💻 I'm working on
 - [ByCycle](https://github.com/Francesca-Bonato/ByCycle-project.git), a forum community project dedicated to cycling enthusiasts.
