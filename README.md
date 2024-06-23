@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub! I'm Francesca, a PhD in Chemistry & Applied Sciences who's transitioning into Software Engineering. Through self-study and enrolling in a 6-month coding Bootcamp at Develhope Academy, I am building a solid foundation in both frontend and backend technologies and languages. 
+Welcome to my GitHub! I'm Francesca, a PhD in Chemistry & Applied Sciences who's transitioning into Software and Web Development. Through self-study and enrolling in a 6-month coding Bootcamp at Develhope Academy, I am building a solid foundation in both frontend and backend technologies and languages. 
 
 I thrive on solving problems.
 
