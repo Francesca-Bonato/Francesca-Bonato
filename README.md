@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub! I'm Francesca, a PhD in Chemistry & Applied Sciences who's transitioning into Software and Web Development. Through self-study and enrolling in a 6-month coding Bootcamp at Develhope Academy, I am building a solid foundation in both frontend and backend technologies and languages. 
+Welcome to my GitHub! I'm Francesca, a PhD in Chemistry & Applied Sciences who has transitioned into Software and Web Development. Through self-study and completing a 6-month coding Bootcamp at Develhope Academy, I built a strong foundation in both frontend and backend technologies. Currently, I work as a Frontend Developer specializing in React and TypeScript, with a particular focus on microfrontend architecture.
 
 I thrive on solving problems.
 
@@ -24,16 +24,12 @@ I thrive on solving problems.
 - 🔧 &nbsp; Git | npm | Postman API 
 
 ### ✔️ I'm currently learning
-- Python | Angular
-
-### 👩‍💻 I'm working on
-- [ByCycle](https://github.com/Francesca-Bonato/ByCycle-project.git), a forum community project dedicated to cycling enthusiasts.
-- Building my portfolio website. 
+- Python 
 
 ### 💡 Goals for 2024
-- Complete coding bootcamp by June 2024.
+- Complete coding bootcamp by June 2024. ✅
 - Become proficient in Python.
-- Develop a simple 2D game. 
+- Learn as much as possible about machine learning and AI models.
 
 ### 🌴 Fun facts
 - I enjoy books for the stories, board games for the strategy, and video games for both the stories and strategy.
