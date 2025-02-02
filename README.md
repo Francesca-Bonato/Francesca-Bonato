@@ -20,16 +20,11 @@ Welcome to my GitHub! I'm Francesca, a PhD in Chemistry & Applied Sciences who h
 I thrive on solving problems.
 
 ### 🛠 Tech Stack
-- 💻 &nbsp;  Javascript | TypeScript | HTML | CSS | Bootstrap | TailwindCSS | React | Node.js | SQL
+- 💻 &nbsp; Python | Javascript | TypeScript | HTML | CSS | Bootstrap | TailwindCSS | React | Node.js | SQL
 - 🔧 &nbsp; Git | npm | Postman API 
 
-### ✔️ I'm currently learning
-- Python 
-
-### 💡 Goals for 2024
-- Complete coding bootcamp by June 2024. ✅
-- Become proficient in Python.
-- Learn as much as possible about machine learning and AI models.
+### ✔️ I'm currently studying
+- Machine learning and AI models.
 
 ### 🌴 Fun facts
 - I enjoy books for the stories, board games for the strategy, and video games for both the stories and strategy.
